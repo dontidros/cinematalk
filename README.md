@@ -1,0 +1,1 @@
+A native(without OOP) PHP blog project which also includes security features such as preventing sql injections, protection against xss attacks and csrf token
